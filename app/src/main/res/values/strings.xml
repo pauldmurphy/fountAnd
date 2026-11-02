@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FountAnd</string>
+    <string name="mode_editor">Write</string>
+    <string name="mode_split">Split</string>
+    <string name="mode_preview">Preview</string>
+    <string name="cd_open_drawer">Open scene outline and script library</string>
+    <string name="cd_toggle_dark_mode">Toggle focused dark mode</string>
+    <string name="cd_title_page">Edit screenplay title page</string>
+    <string name="cd_file_actions">Save, open, or export screenplay</string>
+    <string name="cd_new_script">Create new screenplay</string>
+    <string name="drawer_tab_scenes">Scenes</string>
+    <string name="drawer_tab_library">Scripts</string>
+    <string name="drawer_tab_guide">Syntax</string>
+    <string name="status_saved_locally">Saved locally</string>
+    <string name="status_synced_drive">Linked to Drive / File</string>
+    <string name="status_saving">Saving…</string>
+    <string name="action_open_file">Open .fountain from Drive / Device</string>
+    <string name="action_save_linked">Save to Linked File</string>
+    <string name="action_save_as_drive">Save .fountain to Google Drive / Device</string>
+    <string name="action_export_pdf">Export Formatted Screenplay PDF</string>
+    <string name="action_toggle_line_numbers">Toggle Editor Line Numbers</string>
+    <string name="title_page_dialog_title">Title Page Metadata</string>
+    <string name="title_page_dialog_subtitle">Syncs directly with the top Fountain header block of your script.</string>
+    <string name="label_title">Title</string>
+    <string name="label_credit">Credit (e.g., Written by)</string>
+    <string name="label_author">Author</string>
+    <string name="label_source">Source (e.g., Story by)</string>
+    <string name="label_draft_date">Draft Date</string>
+    <string name="label_contact">Contact Info</string>
+    <string name="btn_apply">Apply to Script</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="empty_scenes_title">No scene headings yet</string>
+    <string name="empty_scenes_body">Start a line with INT. or EXT. to populate your scene navigator.</string>
+    <string name="editor_placeholder">Title: UNTITLED SCREENPLAY\nAuthor: Your Name\n\nINT. LOCATION - NIGHT\n\nWrite your screenplay in Fountain format…</string>
+</resources>

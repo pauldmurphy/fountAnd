@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for Fountain Studio, an Android Fountain screenplay editor with real-time syntax highlighting, live formatted screenplay preview, adaptive split-pane/tabbed layout, quick-insert toolbar, scene outline navigation drawer, title page editor, local Room autosave, Google Drive/SAF file import & export, and formatted PDF export.",
+  "updatedAt":  "2026-11-02T05:54:09.771476934Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

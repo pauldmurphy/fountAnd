@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Decorative studio clapper & manuscript emblem -->
+    <path
+        android:fillColor="#242933"
+        android:pathData="M16,16h64c4.4,0 8,3.6 8,8v48c0,4.4 -3.6,8 -8,8H16c-4.4,0 -8,-3.6 -8,-8V24C8,19.6 11.6,16 16,16z" />
+    <path
+        android:fillColor="#E5A93C"
+        android:pathData="M16,16h64c4.4,0 8,3.6 8,8v10H8V24C8,19.6 11.6,16 16,16z" />
+    <path
+        android:fillColor="#111315"
+        android:pathData="M22,16l-8,18h10l8,-18zM44,16l-8,18h10l8,-18zM66,16l-8,18h10l8,-18z" />
+    <path
+        android:fillColor="#ECE8DF"
+        android:pathData="M24,46h28v4H24zM24,56h48v3H24zM24,64h36v3H24z" />
+    <path
+        android:fillColor="#68B0AB"
+        android:pathData="M62,45h10v6H62z" />
+</vector>

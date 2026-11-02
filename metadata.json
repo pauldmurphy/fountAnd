@@ -1,0 +1,6 @@
+{
+  "name": "FountAnd",
+  "description": "Distraction-free Fountain screenplay editor with real-time syntax highlighting, formatted screenplay preview, local and Google Drive saving, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
